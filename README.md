@@ -9,6 +9,8 @@ Then type ./a.out
 Then type ./a.out
 
 
+
+
 How the algorithm works with the barbell graph:
 
 The algorithm provided, Expensive-Digraph-exact-paths, can be applied to any directed graph, including barbell graphs. A barbell graph consists of two complete graphs (cliques) connected by a path. Let's consider how the algorithm works with a barbell graph:
